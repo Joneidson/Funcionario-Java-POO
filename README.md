@@ -38,13 +38,11 @@ Informe a porcentagem de aumento salarial que deseja aplicar. <br/>
 O programa mostrará os dados atualizados do funcionário com o novo salário líquido. <br/>
 
 📋 Exemplo de saída
-yaml
-Copiar
-Editar
-Qual o nome do Funcionario: João
-Qual o salario bruto: 3000
-Qual a taxa de imposto: 500
 
-Funcionario João, 2500.00
-Qual a porcentagem para almento de salario: 10
+Qual o nome do Funcionario: João<br/>
+Qual o salario bruto: 3000<br/>
+Qual a taxa de imposto: 500<br/>
+<br/> <br/>
+Funcionario João, 2500.00<br/>
+Qual a porcentagem para almento de salario: 10<br/>
 João, 3000.00
